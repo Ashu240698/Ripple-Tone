@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.navbar {
+	background-color: coral;
+	padding-left: 10px;
+	padding-top: 10px;
+	height: 80px;
+}
+
+.navbar-header {
+	font-size: x-large;
+	font-weight: bolder;
+	padding-top: 10px;
+}
